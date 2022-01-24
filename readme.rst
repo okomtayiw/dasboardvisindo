@@ -16,14 +16,10 @@ Management data serah terima unit apartement
 ###################
 
 - Masterdata
-   - TOWER A
-   - TOWER B
-   - TOWER C
-   - TOWER D
-   - TOWER E
-   - TOWER F
+   - Customer / Pelanggan
+   - Package / Paket
+   - Transaction / Transaksi
 - Transaksi 
-  - HO (Handover)
-  - Pinjam Pakai (if status unit belum lunas 100%)
+  - Make invoice
 - Report 
-- Auto Send Email IF status defect belum dikerjakan 
+
