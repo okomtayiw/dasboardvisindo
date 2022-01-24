@@ -12,7 +12,7 @@ Language
 
 
 ###################
-Management data serah terima unit apartement
+Data 
 ###################
 
 - Masterdata
